@@ -1,6 +1,6 @@
 # 💻 Vladislav Konstantinov (VKDev)  
 
-![Profile Banner](https://via.placeholder.com/1200x400/4a90e2/ffffff?text=Welcome+to+My+GitHub+Profile)  
+
 > 🛠️ Backend Developer | 🌟 Go Enthusiast | 🚀 Explorer of Tech  
 
 ---
