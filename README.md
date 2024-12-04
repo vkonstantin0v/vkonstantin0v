@@ -1,4 +1,4 @@
-# 💻 Vladislav Konstantinov (vkonstantin0v)  
+# 💻 Vladislav Konstantinov (VKDev)  
 
 ![Profile Banner](https://via.placeholder.com/1200x400/4a90e2/ffffff?text=Welcome+to+My+GitHub+Profile)  
 > 🛠️ Backend Developer | 🌟 Go Enthusiast | 🚀 Explorer of Tech  
@@ -6,12 +6,12 @@
 ---
 
 ## 🧑‍💻 About Me  
-Hello! I'm **Vladislav Konstantinov**, a passionate developer diving into the world of **Go** and backend development.  
-I believe in the power of clean code, open-source contributions, and lifelong learning.  
+Hi! I'm **Vladislav Konstantinov**, a beginner developer.  
+Currently learning **Go** and working on a project for the **Liza Alert Search-and-Rescue Team**.  
 
-- 🌱 Currently learning: **Go, REST API design, and database management**  
-- 🚧 Working on: A personal calculator project in Go  
-- 🎯 Interests: **Geolocation-based applications** and **real-time data processing**  
+- 🌱 Learning: **Go, REST API**  
+- 🚧 Goal: Build a project for the **Liza Alert Search-and-Rescue Team**  
+- 🎯 Interests: **Geolocation** and **real-time data processing**
 
 ---
 
@@ -39,6 +39,7 @@ I believe in the power of clean code, open-source contributions, and lifelong le
 ## 🌌 Let's Connect  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/vkonstantin0v)  
 [![Habr](https://img.shields.io/badge/-Habr-FF6A00?logo=habr&logoColor=white&style=flat)](https://habr.com/ru/users/vkonstantin0v/)  
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=flat)](https://t.me/vkonstantunov)  
 
 ---
 
