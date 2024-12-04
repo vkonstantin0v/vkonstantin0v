@@ -1,5 +1,4 @@
-# 💻 Vladislav Konstantinov (VKDev)  
-
+# 💻 Vladislav Konstantinov (vkonstantin0v)  
 
 > 🛠️ Backend Developer | 🌟 Go Enthusiast | 🚀 Explorer of Tech  
 
