@@ -1,4 +1,4 @@
-# 💻 Vladislav Konstantinov (VKDev)  
+# 💻 Vladislav Konstantinov (vkonstantin0v)  
 
 ![Profile Banner](https://via.placeholder.com/1200x400/4a90e2/ffffff?text=Welcome+to+My+GitHub+Profile)  
 > 🛠️ Backend Developer | 🌟 Go Enthusiast | 🚀 Explorer of Tech  
@@ -18,7 +18,7 @@ I believe in the power of clean code, open-source contributions, and lifelong le
 ## 🛠️ Tech Stack  
 - **Languages:**  
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+
 
 - **Tools:**  
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
